@@ -23,6 +23,10 @@
 
 ## 3. 준비물 및 회로 구성
 
+![Arduino Uno D13 LED 회로 구성](assets/circuit.png)
+
+제작한 Fritzing 회로도입니다. D13과 GND 사이에 LED와 저항을 직렬로 연결합니다.
+
 - Arduino Uno, USB 데이터 케이블
 - LED, 220~330Ω 저항, 브레드보드, 점퍼선
 - 웹캠과 Chrome 브라우저
