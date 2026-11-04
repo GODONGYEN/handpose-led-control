@@ -15,11 +15,11 @@
 
 ## 2. 시연 영상
 
-[![손 인식 및 아두이노 연결 시연](assets/demo-preview.jpg)](assets/demo.mp4)
+아래 영상의 **▶ 재생 버튼**을 누르면 이 페이지에서 바로 시연 영상을 볼 수 있습니다.
 
-**[시연 영상 보기 / 다운로드](https://github.com/GODONGYEN/handpose-led-control/raw/refs/heads/main/assets/demo.mp4)**
+https://github.com/user-attachments/assets/433e91df-9ebc-487c-b717-0ad4635ff454
 
-제공된 촬영 영상을 웹 호환 MP4(H.264)로 변환했습니다. 미리보기에서 손 관절의 초록색 점·연결선, 엄지와 검지 사이 노란 선, 밝기 값 및 아두이노 연결 상태를 볼 수 있습니다. GitHub에서 영상이 바로 재생되지 않으면 위 링크로 다운로드해 재생할 수 있습니다.
+손 관절의 초록색 점과 연결선, 엄지와 검지 사이 노란 선, LED 밝기 값 및 아두이노 연결 상태를 확인할 수 있습니다.
 
 ## 3. 준비물 및 회로 구성
 
